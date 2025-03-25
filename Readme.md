@@ -4,8 +4,11 @@
 📌 Overview
 ---
 This project is a smart car parking solution developed as part of my dissertation module. The solution includes a mobile application that allows users to:
+
 ✅ Search for available parking slots 🅿️
+
 ✅ Select & book a slot in real-time 📍
+
 ✅ Make secure payments via Stripe 💳
 
 The project integrates a smart algorithm to efficiently allocate parking slots, optimizing space utilization and improving user experience.
